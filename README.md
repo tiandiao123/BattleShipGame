@@ -3,7 +3,7 @@ programs are written in other branches!
 
 The Game Basics and Its Representation
 
-Here's a list of the features that your game should have:
+Here's a list of the features that my game has:
 
 The rectangular game board (must be represented in your program as a 2-dimensional array) is sized by the user at the start of a game.
 A ship will consist of three consecutive (vertical or horizontal, but not diagonal) board locations chosen randomly by your program at start-up. The locations of the ships will be indicated in the 2-dimensional array.  Be careful that ships do not get positioned partially off the board!  See item 4 below for the number of ships to include.
